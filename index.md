@@ -35,7 +35,7 @@ page_sections:
   media_alignment: Left
   headline: "<strong>Inform </strong>your patients of the most vital"
   content: Let your patients know the whens, wheres, whats, and with-whos of their
-    appointments.
+    appointments with a glance.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
