@@ -20,16 +20,16 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Prep.<br><strong>doctor-patient communication tool</strong>
+  content: 'The tool that allows you to manage your patients accuratly and effectively.<br>Give
+    yourself and your patients the information '
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/davzzar/prep
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: "/uploads/2019/10/26/prep_icon.png"
+    alt_text: Prep. Logo
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
