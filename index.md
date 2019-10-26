@@ -48,6 +48,15 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Communicate directly, privately, and securely
+  content: Use Prep's instant messaging to communicate with your patients directly,
+    quickly, and without giving your own information away.
+  media:
+    image: ''
+    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
