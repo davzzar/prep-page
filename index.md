@@ -50,7 +50,7 @@ page_sections:
     alt_text: Customize Blocks
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Communicate directly, privately, and securely
   content: Use Prep's instant messaging to communicate with your patients directly,
     quickly, and without giving your own information away.
