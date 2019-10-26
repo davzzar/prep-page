@@ -72,7 +72,8 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ by Team Bebsi
+  content: Made with ❤︎ by <a href="#team" title="">Team Bebsi</a><br><a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/"
+    title="">uBlocks</a> theme made by <a href="https://forestry.io" title="">Forestry.io</a>
 
 ---
 foo bar
