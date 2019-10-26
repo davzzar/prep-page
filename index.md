@@ -70,7 +70,7 @@ page_sections:
       create new sites and make them fully customizable. \U0001F447"
   - template: full-width-media-element
     block: video-1
-    image: "/uploads/2019/10/26/PREP TUTORIAL_SCREENCAST.mp4"
+    video: "/uploads/2019/10/26/PREP TUTORIAL_SCREENCAST.mp4"
     caption: Overview look at Prep.
   - template: detail-content
     block: text-1
