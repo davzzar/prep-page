@@ -42,10 +42,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>Track</strong> that they're on track"
+  content: View your patient's medical requirement compliance with a simple UI. Prep
+    will remind your patients if they're veering off.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
