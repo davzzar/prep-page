@@ -19,8 +19,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Prep.<br><strong>doctor-patient communication tool</strong>
-  content: 'The tool that allows you to manage your patients accuratly and effectively.<br>Give
-    yourself and your patients the information '
+  content: The tool that allows you to manage your patients accurately and effectively.<br>Give
+    and your patients the information they want, give yourself the information you
+    need.
   cta:
     enabled: true
     url: https://github.com/davzzar/prep
