@@ -71,6 +71,7 @@ page_sections:
   - template: full-width-media-element
     block: video-1
     video: "/uploads/2019/10/26/screencast.webm"
+    thumb: "/uploads/2019/10/26/screencast-thumb.png"
     caption: Overview look at Prep.
   - template: detail-content
     block: text-1
