@@ -114,7 +114,11 @@ page_sections:
   col_1:
     headline: Arzhan Tong
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/arzhan_tong.jpg"
-      alt="Image of Arzhan Tong">
+      alt="Image of Arzhan Tong"><br><br><a href="https://github.com/arzhtong" title="">@arzhtong</a><br><br>Creativity
+      is a fucking work-ethic. You need to sit down and sketch more fucking ideas
+      because stalking your ex on facebook isn’t going to get you anywhere. A good
+      fucking composition is the result of a hierarchy consisting of clearly contrasting
+      elements set with distinct alignments containing irregular intervals of
   col_2:
     headline: Sarunas Djacenko
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/sarunas_djacenko.jpg"
