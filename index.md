@@ -123,8 +123,9 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: ''
-    content: ''
+    headline: Xin (Barry) Quan
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/xin_quan.jpg"
+      alt="Image of Xin Quan">
   col_2:
     headline: ''
     content: ''
