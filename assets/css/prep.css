@@ -9,11 +9,6 @@ Taken from sourse above and modifeid to fit product colorscheme
   padding: 0;
 }
 
-.center {
-  margin: 0 auto;
-  width: 600px;
-}
-
 h1 {
   font-size: 48px;
   font-size: 3rem;
