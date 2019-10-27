@@ -99,69 +99,41 @@ page_sections:
   col_2:
     headline: David Simon Tetruashvili
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/david_simon_tetruashvili.jpg"
-      alt="Image of David Simon Tetruashvili"><br><a href="https://github.com/davzzarhttps://github.com/davzzar"
-      title="">@davzzar</a><br>Creativity is a fucking work-ethic. You need to sit
-      down and sketch more fucking ideas because stalking your ex on facebook isn’t
-      going to get you anywhere. A good fucking composition is the result of a hierarchy
-      consisting of clearly contrasting elements set with distinct alignments containing
-      irregular intervals
+      alt="Image of David Simon Tetruashvili"><br><br><a href="https://github.com/davzzarhttps://github.com/davzzar"
+      title="">@davzzar</a><br>
 - template: 2-column-text
   block: two-column-1
   col_1:
     headline: Arzhan Tong
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/arzhan_tong.jpg"
-      alt="Image of Arzhan Tong"><br><br><a href="https://github.com/arzhtong" title="">@arzhtong</a><br><br>Creativity
-      is a fucking work-ethic. You need to sit down and sketch more fucking ideas
-      because stalking your ex on facebook isn’t going to get you anywhere. A good
-      fucking composition is the result of a hierarchy consisting of clearly contrasting
-      elements set with distinct alignments containing irregular intervals of
+      alt="Image of Arzhan Tong"><br><br><a href="https://github.com/arzhtong" title="">@arzhtong</a>
   col_2:
     headline: Sarunas Djacenko
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/sarunas_djacenko.jpg"
-      alt="Image of Sarunas Djacenko"><br><a href="https://github.com/sarunasdjacenko"
-      title="">@sarunasdjacenko</a><br><br>Creativity is a fucking work-ethic. You
-      need to sit down and sketch more fucking ideas because stalking your ex on facebook
-      isn’t going to get you anywhere. A good fucking composition is the result of
-      a hierarchy consisting of clearly contrasting elements set with distinct alignments
-      containing irregular intervals of
+      alt="Image of Sarunas Djacenko"><br><br><a href="https://github.com/sarunasdjacenko"
+      title="">@sarunasdjacenko</a>
 - template: 2-column-text
   block: two-column-1
   col_1:
     headline: David Temple
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/david_temple.jpg"
-      alt="Image of David Temple"><br><a href="https://github.com/davet2408" title=""><br>@davet2408</a><br><br>Creativity
-      is a fucking work-ethic. You need to sit down and sketch more fucking ideas
-      because stalking your ex on facebook isn’t going to get you anywhere. A good
-      fucking composition is the result of a hierarchy consisting of clearly contrasting
-      elements set with distinct alignments containing irregular intervals of
+      alt="Image of David Temple"><br><a href="https://github.com/davet2408" title=""><br>@davet2408</a>
   col_2:
     headline: Mufid Alkhaddour
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/mufid_alkhaddour.jpg"
-      alt="Image of Mufid Alkhaddour"><br><a href="https://github.com/Mufid99" title="">@Mufid99</a><br><br>Creativity
-      is a fucking work-ethic. You need to sit down and sketch more fucking ideas
-      because stalking your ex on facebook isn’t going to get you anywhere. A good
-      fucking composition is the result of a hierarchy consisting of clearly contrasting
-      elements set with distinct alignments containing irregular intervals of
+      alt="Image of Mufid Alkhaddour"><br><br><a href="https://github.com/Mufid99"
+      title="">@Mufid99</a>
 - template: 2-column-text
   block: two-column-1
   col_1:
     headline: Xin (Barry) Quan
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/xin_quan.jpg"
-      alt="Image of Xin Quan"><br><a href="https://github.com/XinQuan42" title="">@XinQuan42</a><br><br>Creativity
-      is a fucking work-ethic. You need to sit down and sketch more fucking ideas
-      because stalking your ex on facebook isn’t going to get you anywhere. A good
-      fucking composition is the result of a hierarchy consisting of clearly contrasting
-      elements set with distinct alignments containing irregular intervals of
+      alt="Image of Xin Quan"><br><br><a href="https://github.com/XinQuan42" title="">@XinQuan42</a>
   col_2:
     headline: Presval Kisyov
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/preslav_kisyov.jpg"
-      alt="Image of Presval Kisyov"><br><a href="https://github.com/PreslavKisyov"
-      title="">@<span class="p-nickname vcard-username d-block">PreslavKisyov</span></a><span
-      class="p-nickname vcard-username d-block"><br><br></span>Creativity is a fucking
-      work-ethic. You need to sit down and sketch more fucking ideas because stalking
-      your ex on facebook isn’t going to get you anywhere. A good fucking composition
-      is the result of a hierarchy consisting of clearly contrasting elements set
-      with distinct alignments containing irregular intervals of
+      alt="Image of Presval Kisyov"><br><br><a href="https://github.com/PreslavKisyov"
+      title="">@<span class="p-nickname vcard-username d-block">PreslavKisyov</span></a>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by <a href="#team" title="">Team Bebsi</a><br><a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/"
