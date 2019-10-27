@@ -70,16 +70,16 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Andoid Patient Client
-    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/26/Prep_Android_icon.png"
-      alt="Android Client Logo">
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/android_client.png"
+      alt="Android client">
   col_2:
     headline: iOS Patient Client
-    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/26/Prep_iOS_icon.png"
-      alt="iOS Client Logo">
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/ios_client.png"
+      alt="iOS client">
   col_3:
     headline: Admin Web App
-    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/26/Prep_Favicon.png"
-      alt="Web Client Logo">
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/web_client.png"
+      alt="Web app client">
 - template: full-width-media-element
   block: video-1
   video: "/uploads/2019/10/26/screencast.webm"
