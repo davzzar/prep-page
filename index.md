@@ -34,7 +34,7 @@ page_sections:
   content: Let your patients know the whens, wheres, whats, and with-whos of their
     appointments with a glance.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2019/10/27/info_phone.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
