@@ -66,12 +66,17 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Andoid Patient Client
+    content: ''
+  col_2:
+    headline: iOS Patient Client
+    content: ''
+  col_3:
+    headline: Admin Web App
+    content: ''
 - template: full-width-media-element
   block: video-1
   video: "/uploads/2019/10/26/screencast.webm"
