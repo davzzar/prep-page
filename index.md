@@ -117,8 +117,9 @@ page_sections:
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/david_temple.jpg"
       alt="Image of David Temple">
   col_2:
-    headline: ''
-    content: ''
+    headline: Mufid Alkhaddour
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/mufid_alkhaddour.jpg"
+      alt="Image of Mufid Alkhaddour">
 - template: 2-column-text
   block: two-column-1
   col_1:
