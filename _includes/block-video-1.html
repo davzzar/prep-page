@@ -2,9 +2,10 @@
   <div class="container">
     <figure>
       {% if section.title %}
-      <h3>{{ section.title }}</h3>
+      <h3 class="center">{{ section.title }}</h3>
       {% endif %}
       <video
+        class="center"
         width="1280"
         height="720"
         poster="{{ section.thumb | relative_url }}"
