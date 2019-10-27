@@ -61,8 +61,8 @@ page_sections:
   content: Use the accompanying web app to book and manage appointments per department,
     location, or type of appointment.
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2019/10/27/appointments_web.png"
+    alt_text: Wep app appointments page
 - template: 3-column-text
   block: three-column-1
   col_1:
