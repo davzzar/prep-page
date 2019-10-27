@@ -133,7 +133,11 @@ page_sections:
   col_1:
     headline: David Temple
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/david_temple.jpg"
-      alt="Image of David Temple">
+      alt="Image of David Temple"><br><a href="https://github.com/davet2408" title=""><br>@davet2408</a><br><br>Creativity
+      is a fucking work-ethic. You need to sit down and sketch more fucking ideas
+      because stalking your ex on facebook isn’t going to get you anywhere. A good
+      fucking composition is the result of a hierarchy consisting of clearly contrasting
+      elements set with distinct alignments containing irregular intervals of
   col_2:
     headline: Mufid Alkhaddour
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/mufid_alkhaddour.jpg"
