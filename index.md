@@ -107,8 +107,9 @@ page_sections:
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/arzhan_tong.jpg"
       alt="Image of Arzhan Tong">
   col_2:
-    headline: ''
-    content: ''
+    headline: Sarunas Djacenko
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/sarunas_djacenko.jpg"
+      alt="Image of Sarunas Djacenko">
 - template: 2-column-text
   block: two-column-1
   col_1:
