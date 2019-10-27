@@ -3,16 +3,6 @@ layout: blocks
 title: Prep.
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2019/10/26/prep-header-logo-1.svg"
-  navigation:
-  - link: "#"
-    link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#team"
-    link_text: Team
 - template: hero-banner-w-image
   block: hero-2
   headline: Prep.<br><strong>doctor-patient communication tool</strong>
