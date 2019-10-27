@@ -83,10 +83,6 @@ page_sections:
   thumb: "/uploads/2019/10/26/screencast-thumb.png"
   image: ''
   caption: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: The Bebsi Team
-  content: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
