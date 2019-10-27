@@ -103,7 +103,12 @@ page_sections:
   col_2:
     headline: David Simon Tetruashvili
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/david_simon_tetruashvili.jpg"
-      alt="Image of David Simon Tetruashvili">
+      alt="Image of David Simon Tetruashvili"><br><a href="https://github.com/davzzarhttps://github.com/davzzar"
+      title="">@davzzar</a><br><br>Creativity is a fucking work-ethic. You need to
+      sit down and sketch more fucking ideas because stalking your ex on facebook
+      isn’t going to get you anywhere. A good fucking composition is the result of
+      a hierarchy consisting of clearly contrasting elements set with distinct alignments
+      containing irregular intervals of
 - template: 2-column-text
   block: two-column-1
   col_1:
