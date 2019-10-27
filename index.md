@@ -43,7 +43,7 @@ page_sections:
   content: View your patient's medical requirement compliance with a simple UI. Prep
     will remind your patients if they're veering off.
   media:
-    image: "/uploads/2019/10/27/appointments_web.png"
+    image: "/uploads/2019/10/27/web_manage.png"
     alt_text: Appointment checkups
 - template: content-feature
   block: feature-1
