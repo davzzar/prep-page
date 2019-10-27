@@ -151,7 +151,11 @@ page_sections:
   col_1:
     headline: Xin (Barry) Quan
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/xin_quan.jpg"
-      alt="Image of Xin Quan">
+      alt="Image of Xin Quan"><br><a href="https://github.com/XinQuan42" title="">@XinQuan42</a><br><br>Creativity
+      is a fucking work-ethic. You need to sit down and sketch more fucking ideas
+      because stalking your ex on facebook isn’t going to get you anywhere. A good
+      fucking composition is the result of a hierarchy consisting of clearly contrasting
+      elements set with distinct alignments containing irregular intervals of
   col_2:
     headline: Presval Kisyov
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/preslav_kisyov.jpg"
