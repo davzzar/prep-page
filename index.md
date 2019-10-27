@@ -74,7 +74,8 @@ page_sections:
       alt="Android Client Logo">
   col_2:
     headline: iOS Patient Client
-    content: <img src="/uploads/2019/10/26/Prep_iOS_icon.png">
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/26/Prep_iOS_icon.png"
+      alt="iOS Client Logo">
   col_3:
     headline: Admin Web App
     content: <img src="/uploads/2019/10/26/Prep_Favicon.png">
