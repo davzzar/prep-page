@@ -52,8 +52,8 @@ page_sections:
   content: Use Prep's instant messaging to communicate with your patients directly,
     quickly, and without giving your own information away.
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2019/10/27/chat_phone.jpg"
+    alt_text: Instant messenger
 - template: content-feature
   block: feature-1
   media_alignment: Right
