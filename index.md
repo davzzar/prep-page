@@ -95,7 +95,7 @@ page_sections:
   col_1:
     headline: Dario Nunez
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/dario_nunez.jpg"
-      alt="Image of Dario Nunuez">
+      alt="Image of Dario Nunuez"><a href="https://github.com/codedario" title="">@codedario</a>
   col_2:
     headline: David Simon Tetruashvili
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/david_simon_tetruashvili.jpg"
