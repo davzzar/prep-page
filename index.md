@@ -51,7 +51,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Communicate directly, privately, and securely
+  headline: "<strong>Communicate </strong>directly, privately, and securely"
   content: Use Prep's instant messaging to communicate with your patients directly,
     quickly, and without giving your own information away.
   media:
@@ -60,7 +60,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Manage appointments and assign tests per patient basis
+  headline: "<strong>Manage </strong>appointments and assign tests per patient basis"
   content: Use the accompanying web app to book and manage appointments per department,
     location, or type of appointment.
   media:
