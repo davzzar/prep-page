@@ -78,7 +78,8 @@ page_sections:
       alt="iOS Client Logo">
   col_3:
     headline: Admin Web App
-    content: <img src="/uploads/2019/10/26/Prep_Favicon.png">
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/26/Prep_Favicon.png"
+      alt="Web Client Logo">
 - template: full-width-media-element
   block: video-1
   video: "/uploads/2019/10/26/screencast.webm"
