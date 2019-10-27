@@ -70,7 +70,8 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Andoid Patient Client
-    content: <img src="/uploads/2019/10/26/Prep_Android_icon.png">
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/26/Prep_Android_icon.png"
+      alt="Android Client Logo">
   col_2:
     headline: iOS Patient Client
     content: <img src="/uploads/2019/10/26/Prep_iOS_icon.png">
