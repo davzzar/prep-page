@@ -70,7 +70,7 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Andoid Patient Client
-    content: ''
+    content: <img src="/uploads/2019/10/26/Prep_Android_icon.png">
   col_2:
     headline: iOS Patient Client
     content: ''
