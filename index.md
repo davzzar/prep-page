@@ -127,8 +127,9 @@ page_sections:
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/xin_quan.jpg"
       alt="Image of Xin Quan">
   col_2:
-    headline: ''
-    content: ''
+    headline: Presval Kisyov
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/preslav_kisyov.jpg"
+      alt="Image of Presval Kisyov">
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by <a href="#team" title="">Team Bebsi</a><br><a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/"
