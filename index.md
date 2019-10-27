@@ -73,10 +73,10 @@ page_sections:
     content: <img src="/uploads/2019/10/26/Prep_Android_icon.png">
   col_2:
     headline: iOS Patient Client
-    content: ''
+    content: <img src="/uploads/2019/10/26/Prep_iOS_icon.png">
   col_3:
     headline: Admin Web App
-    content: ''
+    content: <img src="/uploads/2019/10/26/Prep_Favicon.png">
 - template: full-width-media-element
   block: video-1
   video: "/uploads/2019/10/26/screencast.webm"
