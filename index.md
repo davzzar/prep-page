@@ -35,7 +35,7 @@ page_sections:
     appointments with a glance.
   media:
     image: "/uploads/2019/10/27/info_phone.jpg"
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: Prep app main screen
 - template: content-feature
   block: feature-1
   media_alignment: Right
