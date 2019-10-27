@@ -99,7 +99,7 @@ page_sections:
       is a fucking work-ethic. You need to sit down and sketch more fucking ideas
       because stalking your ex on facebook isn’t going to get you anywhere. A good
       fucking composition is the result of a hierarchy consisting of clearly contrasting
-      elements set with distinct alignments containing irregular intervals of
+      elements set with distinct alignments containing irregular intervals
   col_2:
     headline: David Simon Tetruashvili
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/david_simon_tetruashvili.jpg"
