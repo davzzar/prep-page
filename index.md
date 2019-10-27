@@ -159,7 +159,13 @@ page_sections:
   col_2:
     headline: Presval Kisyov
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/preslav_kisyov.jpg"
-      alt="Image of Presval Kisyov">
+      alt="Image of Presval Kisyov"><br><a href="https://github.com/PreslavKisyov"
+      title="">@<span class="p-nickname vcard-username d-block">PreslavKisyov</span></a><span
+      class="p-nickname vcard-username d-block"><br><br></span>Creativity is a fucking
+      work-ethic. You need to sit down and sketch more fucking ideas because stalking
+      your ex on facebook isn’t going to get you anywhere. A good fucking composition
+      is the result of a hierarchy consisting of clearly contrasting elements set
+      with distinct alignments containing irregular intervals of
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by <a href="#team" title="">Team Bebsi</a><br><a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/"
