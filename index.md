@@ -97,8 +97,9 @@ page_sections:
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/dario_nunez.jpg"
       alt="Image of Dario Nunuez">
   col_2:
-    headline: ''
-    content: ''
+    headline: David Simon Tetruashvili
+    content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/david_simon_tetruashvili.jpg"
+      alt="Image of David Simon Tetruashvili">
 - template: 2-column-text
   block: two-column-1
   col_1:
