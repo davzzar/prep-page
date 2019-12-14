@@ -119,7 +119,7 @@ page_sections:
       title="">@<span class="p-nickname vcard-username d-block">PreslavKisyov</span></a>
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ by <a href="#team" title="">Team Bebsi</a><br><a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/"
+  content: Made with 😡 by <a href="#team" title="">Team Bebsi</a><br><a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/"
     title="">uBlocks</a> theme made by <a href="https://forestry.io" title="">Forestry.io</a>
 
 ---
