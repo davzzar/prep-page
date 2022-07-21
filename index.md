@@ -56,7 +56,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Andoid Patient Client
+    headline: Android Patient Client
     content: <img src="https://cdn.jsdelivr.net/gh/davzzar/prep-page/uploads/2019/10/27/android_client.png"
       alt="Android client">
   col_2:
